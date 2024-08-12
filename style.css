@@ -1,0 +1,14 @@
+body{background-color: rgba(90, 235, 235, 0.918);} /*color del fondo*/
+
+h1{font-family: 'Times New Roman', Times, serif;
+font-size: 30px;color: rgb(209, 41, 247);} /*color de la letra*/
+
+h2{font-family: 'Lucida Sans';font: size 22px;color: blue;}
+
+ol{font-family: cursive;font-size: 20px;
+color: rgb(108, 10, 70);} /*color de la lista*/
+
+ul{font-family: Georgia, 'Times New Roman', Times, serif; font-size: 20px;
+color: rgba(8, 95, 60, 0.912);}/*color de lista*/
+
+h4{font: optional;font-size: 25px; color: yellow;} /*color de titulo de contacto*/
